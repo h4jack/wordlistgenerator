@@ -15,7 +15,7 @@ cd wordlistgenerator
 
 #### Run the Script:
 ```cmd
-python wordlistgenerator.py <filename> [-l <length>] [-v] <word1> <word2> ...
+python main.py <filename> [-l <length>] [-v] <word1> <word2> ...
 ```
 - `<filename>:` Name of the file to save the wordlist.
 - `-l, --length:` (Optional) Length of combined words (default: None).
